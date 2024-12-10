@@ -6,7 +6,7 @@ module.exports = {
   email: 'aboeyad33550@gmail.com',
   featuredProjects,
   projects,
-  skills: ['Smacc', 'Daftra', 'Qoyod', 'GAZT Portal', 'Excel'],
+  skills: ['Smacc', 'Daftra', 'Qoyod', 'GAZT Portal', 'Excel', 'PowerPoint', 'Word'],
   socialMedia: [
     {
       name: 'GitHub',
@@ -31,10 +31,7 @@ module.exports = {
       name: 'About',
       url: '/#about',
     },
-    {
-      name: 'Blog',
-      url: 'https://blog.jrgarciadev.com',
-    },
+
     {
       name: 'Work',
       url: '/#projects',
