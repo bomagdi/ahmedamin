@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react';
 import { Icon } from '@components/Icons';
 import { socialMedia } from '@config';
 import { srConfig } from '@config/sr';
-import Image from 'next/image';
+// import Image from 'next/image';
 import { StyledFooter, StyledSocialLinks, StyledMadeWith, StyledCredit } from './styles';
 
 const Footer = () => {
@@ -30,17 +30,17 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledMadeWith>
-        <p>Made with</p>
-        <a rel="noreferrer" target="_blank" href="https://nextjs.org/">
+        <p>Made with Love By Bin Magdi.&copy; All rights reserved.</p>
+        {/* <a rel="noreferrer" target="_blank" href="https://nextjs.org/">
           <Image src="/nextjs-white-logo.svg" width={100} height={100} />
-        </a>
+        </a> */}
       </StyledMadeWith>
 
-      <StyledCredit tabindex="-1">
+      {/* <StyledCredit tabindex="-1">
         <a rel="noreferrer" target="_blank" href="https://github.com/bchiang7/v4">
           <div>Adapted from the Brittany Chiang Portfolio</div>
         </a>
-      </StyledCredit>
+      </StyledCredit> */}
     </StyledFooter>
   );
 };

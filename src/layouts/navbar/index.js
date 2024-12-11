@@ -36,16 +36,16 @@ const Nav = ({ isHome }) => {
   const fadeClass = isHome ? 'fade' : '';
   const fadeDownClass = isHome ? 'fadedown' : '';
 
-  //   const handleClickResume = () => {
-  //     if (IS_PRODUCTION) {
-  //       gtag.event({
-  //         action: 'click_resume',
-  //         category: 'resume',
-  //         label: 'user clicked on resume button',
-  //       });
-  //     }
-  //     window.open('/resume.pdf', '_blank');
-  //   };
+  // const handleClickResume = () => {
+  //   if (IS_PRODUCTION) {
+  //     gtag.event({
+  //       action: 'click_resume',
+  //       category: 'resume',
+  //       label: 'user clicked on resume button',
+  //     });
+  //   }
+  //   window.open('/resume.pdf', '_blank');
+  // };
 
   return (
     <StyledHeader scrollDirection={scrollDirection} scrolledToTop={scrolledToTop}>

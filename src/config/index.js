@@ -7,24 +7,24 @@ module.exports = {
   featuredProjects,
   projects,
   skills: ['Smacc', 'Daftra', 'Qoyod', 'GAZT Portal', 'Excel', 'PowerPoint', 'Word'],
-  socialMedia: [
-    {
-      name: 'GitHub',
-      url: 'https://github.com/jrgarciadev',
-    },
-    {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/jrgarciadev/',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/jrgarciadev',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/jrgarciadev',
-    },
-  ],
+  // socialMedia: [
+  //   {
+  //     name: 'GitHub',
+  //     url: 'https://github.com/jrgarciadev',
+  //   },
+  //   {
+  //     name: 'Linkedin',
+  //     url: 'https://www.linkedin.com/in/jrgarciadev/',
+  //   },
+  //   {
+  //     name: 'Instagram',
+  //     url: 'https://www.instagram.com/jrgarciadev',
+  //   },
+  //   {
+  //     name: 'Twitter',
+  //     url: 'https://twitter.com/jrgarciadev',
+  //   },
+  // ],
 
   navLinks: [
     {
@@ -32,10 +32,10 @@ module.exports = {
       url: '/#about',
     },
 
-    {
-      name: 'Work',
-      url: '/#projects',
-    },
+    // {
+    //   name: 'Work',
+    //   url: '/#projects',
+    // },
     {
       name: 'Contact',
       url: '/#contact',
