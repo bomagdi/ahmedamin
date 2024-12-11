@@ -8,7 +8,7 @@ const BaseLayout = ({ children }) => {
       <Head>
         <title>Ahmed Amin</title>
         <link rel="icon" href="/public/favicon.ico" />
-        
+
         <meta name="msapplication-TileColor" content="#ffffff" />
         <meta name="theme-color" content="#ffffff" />
         <link
@@ -27,7 +27,7 @@ const BaseLayout = ({ children }) => {
 
         <meta property="og:site_name" content="Ahmed Amin || Accountant" />
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Ahmed Amin || Accountantr" />
+        <meta property="og:title" content="Ahmed Amin || Accountant" />
         <meta property="og:locale" content="en" />
         <meta
           name="description"
