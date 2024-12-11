@@ -1,6 +1,6 @@
 module.exports = {
   parser: 'babel-eslint',
-  extends: ['airbnb', 'plugin:prettier/recommended', 'next/core-web-vitals'], 
+  extends: ['next/core-web-vitals', 'eslint:recommended'],
   env: {
     browser: true,
     jest: true,
