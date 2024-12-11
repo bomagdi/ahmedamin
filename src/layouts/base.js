@@ -37,11 +37,11 @@ const BaseLayout = ({ children }) => {
         <meta property="og:url" content="https://jrgarciadev.com" />
         <meta
           name="description"
-          content="Hello! I'm Junior, a Software Developer based in Buenos Aires, Argentina. I enjoy creating beautiful and reliable applications for internet and phones. My goal is to always build scalable products and performant experiences."
+          content="Ahmed Amin is an accountant living in the Eastern Province of Saudi Arabia. He has extensive experience in the field of accounting and always strives to improve financial performance and provide accurate consultations to help companies grow."
         />
         <meta
           name="keywords"
-          content="Developer, Javascript, Freelancer, React, React native, PHP, Laravel Developer, Vue JS Developer, React Developer"
+          content="Accountant, Financial Analyst, CPA, Bookkeeping, Tax Preparation, Accounting Software, QuickBooks, Financial Reporting, Accounts Payable, Accounts Receivable, Auditing, Payroll Management, Tax Consultant, Financial Planning, Financial Statements, Budgeting, Forensic Accounting, Tax Filing, Management Accounting, Cost Accounting, IFRS, GAAP, Balance Sheet, Profit and Loss, Accounting Systems Integration, Tax Compliance"
         />
         <meta property="og:image" content="https://jrgarciadev.com/avatar.jpeg" />
         <meta property="twitter:image" content="https://jrgarciadev.com/avatar.jpeg" />
